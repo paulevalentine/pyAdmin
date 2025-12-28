@@ -1,0 +1,10 @@
+[project]
+name = "pyAdmin"
+version = "2025.0.0"
+dependencies = [
+    "os",
+    "sys",
+    "datetime",
+    "pathlib",
+    "subprocess"
+]
