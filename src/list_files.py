@@ -1,6 +1,7 @@
 import re
 from pathlib import Path
 
+""" Function to list the file in folders based on date naming """
 path = Path("/Users/paulvalentine/Library/CloudStorage/Dropbox/Structensor/Jobs/Rowland Homes/6504 Roseacre/02 Internal Documents/02 Issued")
 output_file = Path("files.txt")
 
